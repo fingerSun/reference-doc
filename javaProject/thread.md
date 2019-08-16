@@ -1,5 +1,4 @@
-# reference-doc
-#synchronized
+# synchronized
  三种锁方法： 类锁、方法锁、代码块锁
  
  代码块锁锁：
