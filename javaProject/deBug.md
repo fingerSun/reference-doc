@@ -36,16 +36,19 @@ Debug用来追踪代码的运行流程，通常在程序运行过程中出现异
 在设置里勾选Show debug window on breakpoint，则请求进入到断点后自动激活Debug窗口
 
 ![图1.2](./src/main/resources/deBugImage/1.2.jpg)
+
 图1.2
 
 如果你的IDEA底部没有显示工具栏或状态栏，可以在View里打开，显示出工具栏会方便我们使用。可以自己去尝试下这四个选项。
 
 ![图1.3](./src/main/resources/deBugImage/1.3.jpg)
+
 图1.3
 
 在菜单栏Run里有调试对应的功能，同时可以查看对应的快捷键。
 
 ![图1.4](./src/main/resources/deBugImage/1.4.jpg)
+
 图1.4
 
 ## 二、基本用法&快捷键
@@ -197,9 +200,11 @@ Debug调试的功能主要对应着图一中4和5两组按钮：
     * 勾选Evaluate and log，可以在执行这行代码是计算表达式的值，并将结果输出到控制台。
  
     ![图6.2](./src/main/resources/deBugImage/6.2.jpg)
+    
     图6.2
  
     ![图6.3](./src/main/resources/deBugImage/6.3.jpg)
+    
     图6.3
  
 3. 再说说右边的Filters过滤，这些一般情况下不常用，简单说下意思。
